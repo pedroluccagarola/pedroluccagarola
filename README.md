@@ -18,9 +18,13 @@ Casa 3D interativa que mostra, na prática, o que mais pesa na conta de energia 
 
 [Demonstração](https://pedroluccagarola.github.io/wattcasa/) · [Código](https://github.com/pedroluccagarola/wattcasa)
 
-### 🧠 NEURO LAB — *em breve*
+### 🧠 NEURO LAB
 
-Experiência de bem-estar com leitura de expressões faciais e realidade virtual. Projeto apresentado na EXPOTEC 2026.
+Experiência de bem-estar em três etapas: scan de expressões faciais no navegador, um minuto de respiração guiada em realidade virtual e um relatório com a autoavaliação de antes e de depois. Projeto apresentado na EXPOTEC 2026.
+
+<a href="https://pedroluccagarola.github.io/neurolab/"><img src="https://pedroluccagarola.github.io/neurolab/docs/imagens/capa-link.png" alt="NEURO LAB: logo ao lado do laboratório em realidade virtual e do resultado do scan no celular" width="600"></a>
+
+[Demonstração](https://pedroluccagarola.github.io/neurolab/) · [Código](https://github.com/pedroluccagarola/neurolab)
 
 ## Tecnologias que uso
 
@@ -28,6 +32,7 @@ Experiência de bem-estar com leitura de expressões faciais e realidade virtual
 ![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
+![A-Frame / WebXR](https://img.shields.io/badge/A--Frame%20%2F%20WebXR-EF2D5E?logo=aframe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
